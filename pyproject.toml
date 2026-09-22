@@ -1,0 +1,10 @@
+[project]
+name = "simplenote-migrate"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "openai>=3.16.2",
+    "simplenote>=2.1.4",
+]
